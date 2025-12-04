@@ -3,11 +3,11 @@ session_start();
 
 // Daftar barang (contoh)
 $barangList = [
-    "A01" => ["nama" => "Milku", "harga" => 5000],
-    "A02" => ["nama" => "Fanta", "harga" => 6000],
-    "A03" => ["nama" => "Oreo", "harga" => 12000],
-    "A04" => ["nama" => "Chitato", "harga" => 12000],
-    "K001" => ["nama" => "Teh Pucuk", "harga" => 3000], 
+    "C01" => ["nama" => "Coca Cola", "harga" => 6000],
+    "F01" => ["nama" => "Fanta", "harga" => 6000],
+    "S01" => ["nama" => "Sprite", "harga" => 6000],
+    "C01" => ["nama" => "Chitato", "harga" => 12000],
+    "L01" => ["nama" => "Lite", "harga" => 12000], 
 ];
 
 // Tombol Kosongkan Keranjang
